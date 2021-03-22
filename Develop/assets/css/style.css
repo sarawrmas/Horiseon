@@ -74,7 +74,7 @@ p {
 
 /* Bulk content style */
 .bulk {
-    margin-bottom: 20px;
+    margin: 30px 0 30px 30px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
@@ -105,9 +105,9 @@ p {
     margin-left: 25px;
 }
 
-/* Benefits style */
+/* Benefits section style */
 .benefits {
-    margin-right: 20px;
+    margin: 30px 35px;
     padding: 20px;
     clear: both;
     float: right;
