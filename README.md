@@ -1,5 +1,3 @@
-Repository contains quality README file with description, screenshot, and link to deployed application.
-
 # Horiseon - Digital Marketing
 
 ## What is it?
@@ -22,4 +20,4 @@ My contributions include:
 ![Screenshot](https://raw.githubusercontent.com/sarawrmas/Horiseon/master/Develop/assets/images/screenshot.png)
 
 ### Link to website:
-https://sarawrmas.github.io/Horiseon-Challenge-1/
+https://sarawrmas.github.io/Horiseon-Challenge-1-Sara-Adamski/
