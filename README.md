@@ -17,7 +17,7 @@ My contributions include:
 * Creating this README.md.
 
 ### Preview
-![Screenshot](https://raw.githubusercontent.com/sarawrmas/Horiseon/master/Develop/assets/images/screenshot.png)
+![Screenshot](assets/images/screenshot.png)
 
 ### Link to website:
 https://sarawrmas.github.io/Horiseon-Challenge-1-Sara-Adamski/
